@@ -123,6 +123,7 @@ pylint
 pypoetry
 pyproj
 pyrtlsdr
+pyspark
 pytest
 rawmsg
 RTFM
